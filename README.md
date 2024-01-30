@@ -14,7 +14,7 @@ Figure 1: The process of modeling theoretical leaves for a leaf with (a) three l
 ## Description  
 In this repository you can find a dataset composed of 358 leaves from 24 individuals from nine Cannabis accessions, including both wild/feral accessions and cultivated varieties.
 
-Jupyter notebook 01_trace_leaf.ipynb - extraction of the outlines of the scannes leaves
-Jupyter notebook 02_model_visualize_leaf_analysis_updated.ipynb - data analysis workflow
-The folder 03_out containing the files with outline coordinates used in this study
-The folder 04_land containing the files with landmark corrdinates used in this study
+- Jupyter notebook 01_trace_leaf.ipynb - extraction of the outlines of the scannes leaves  
+- Jupyter notebook 02_model_visualize_leaf_analysis_updated.ipynb - data analysis workflow  
+- The folder 03_out containing the files with outline coordinates used in this study  
+- The folder 04_land containing the files with landmark corrdinates used in this study  
