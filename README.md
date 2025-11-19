@@ -1,6 +1,6 @@
 # Morphometric analysis of Cannabis leaves (updated)
 
-This repository contains the data and code used in the manuscript Balant, M. (CA), Garnatje, T., Vitales, D., Hidalgo, O., & Chitwood, D. H. (CA) (2024). Intra‐leaf modeling of Cannabis leaflet shape produces leaf models that predict genetic and developmental identities. New Phytologist, 243(2), 781–796. https://doi.org/10.1111/nph.19817
+This repository contains the data and code used in the manuscript Balant, M., Garnatje, T., Vitales, D., Hidalgo, O., & Chitwood, D. H. (2024). Intra‐leaf modeling of Cannabis leaflet shape produces leaf models that predict genetic and developmental identities. New Phytologist, 243(2), 781–796. https://doi.org/10.1111/nph.19817
 
 Abstract
 The iconic, palmately compound leaves of Cannabis have attracted significant attention in the past. However, investigations into the genetic basis of leaf shape or its connections to phytochemical composition have yielded inconclusive results. This is partly due to prominent changes in leaflet number within a single plant during development, which has so far prevented the proper use of common morphometric techniques.
